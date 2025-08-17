@@ -78,3 +78,7 @@ Feel free to submit issues or pull requests if you have suggestions or improveme
 ## License
 
 This project is open-source and available under the MIT License.
+
+##Output
+
+<img width="1919" height="1017" alt="Screenshot 2025-08-17 221525" src="https://github.com/user-attachments/assets/223b1271-e7ff-49d5-aaeb-5609da38437f" />
